@@ -55,8 +55,11 @@ body {
 }
 
 .header-title {
-  font-size: 8.3rem;
-  line-height: 0.9;
+  /* font-size: 8.3rem;
+  line-height: 0.9; */
+  font-size: 508%;
+  text-align: center;
+  letter-spacing: -3px;
   text-transform: uppercase;
   white-space: nowrap;
   transform: scale(0.95, 1);
@@ -286,7 +289,9 @@ body {
 }
 
 .timeline__text {
-  font-size: 8.7rem;
+  /* font-size: 8.7rem; */
+  font-size: 6.7rem;
+  letter-spacing: -2px;
   font-weight: bold;
   text-transform: uppercase;
   line-height: 1.2;
@@ -351,7 +356,9 @@ body {
 }
 
 .card__title {
-  font-size: 4.4rem;
+  /* font-size: 4.4rem; */
+  font-size: 275%;
+  letter-spacing: -1px;
   white-space: nowrap;
   font-weight: bold;
   text-align: center;
